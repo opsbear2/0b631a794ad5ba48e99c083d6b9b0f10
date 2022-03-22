@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Bear2's Secret Garden 💬🐻💬
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b631a794ad5ba48e99c083d6b9b0f10&show_icons=true&theme=radical)
 
 <!--
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
