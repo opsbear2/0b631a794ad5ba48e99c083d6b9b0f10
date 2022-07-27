@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opsbear2&show_icons=true&theme=radical)
 
 <!--
-**Opsbear2FrontPage/Opsbear2FrontPage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**opsbear2/opsbear2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
