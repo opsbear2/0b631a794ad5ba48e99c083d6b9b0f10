@@ -1,8 +1,8 @@
 ### Welcome to Bear2's Secret Garden 💬🐻💬
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0b631a794ad5ba48e99c083d6b9b0f10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=opsbear2&show_icons=true&theme=radical)
 
 <!--
-**0b631a794ad5ba48e99c083d6b9b0f10/0b631a794ad5ba48e99c083d6b9b0f10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**opsbear2/opsbear2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
